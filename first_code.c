@@ -4,6 +4,6 @@ int main()
 {
     printf( "hello world ## \n" );
     printf("w?");
-    //log ..
+    //modify
     return 0;
 }
