@@ -7,5 +7,7 @@ int main()
 
     //this code is new_Ver
 
+    //ADD LOG
+
     return 0;
 }
