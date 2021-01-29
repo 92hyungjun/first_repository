@@ -4,7 +4,7 @@
 web modify
 
 /// 2
-
+terminal modify same line 
 
 /// 3
 terminal modify
